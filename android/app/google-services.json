@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220894801394",
+    "project_id": "languageapp-101bf",
+    "storage_bucket": "languageapp-101bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220894801394:android:088c4d3dc26b99b9320f6b",
+        "android_client_info": {
+          "package_name": "com.goldendynamicss.language_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220894801394-vq8s6p4k3rb1sepstcm2vn1j422tq2mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwFPN4ppoQ7TrOL0BFpq7CEApOFrBfIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220894801394-vq8s6p4k3rb1sepstcm2vn1j422tq2mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
